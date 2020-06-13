@@ -1,5 +1,6 @@
 body{
     font-family: 'Lato', sans-serif;
+
 }
 
 /* Add a white background color to the top navigation */
@@ -82,6 +83,8 @@ body{
     margin: 40px;
     filter: brightness(70%);
 }
+
+
 
 /*
 .background-crb {
