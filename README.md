@@ -1,9 +1,9 @@
 # template_association_new (BeCode Formation)
 
 ## Project: one-pager for Charity association
--   Repository: template_association
+-   Repository: template_association_new
 -   Time : 1 day
--   Travail: Solo
+-   Travail: Solo (Caturano Luciano)
 
 ## Instructions
 
