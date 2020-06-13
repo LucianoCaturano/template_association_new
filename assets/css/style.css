@@ -100,7 +100,7 @@ h1 {
 /* define features for text inside background-image */
 .background-text {
     text-align: center;
-    padding: 100px 300px;
+    padding: 170px 300px;
 }
 
 p {
@@ -115,4 +115,31 @@ p {
     padding: 10px;
     margin: 5px;
     text-decoration:none;
+}
+
+.navigation:hover {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 8%;
+}
+
+.values {
+    padding: 5px 450px;
+    text-align: center;
+}
+
+h3 {
+    color: #a2a2a2;
+}
+
+.values p {
+    color: #343434;
+}
+
+footer {
+    background-color: #241f1f;
+}
+
+.light {
+    background-color: #535353;
 }
