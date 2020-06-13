@@ -3,7 +3,7 @@
 ## Project: one-pager for Charity association
 -   Repository: template_association_new
 -   Time : 1 day
--   Travail: Solo (Caturano Luciano)
+-   work: Solo (Caturano Luciano)
 
 ## Instructions
 
