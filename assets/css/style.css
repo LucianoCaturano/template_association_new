@@ -39,10 +39,12 @@ body{
     color: red;
 }
 
+/* button header position */
 .button {
     float: right;
 }
 
+/* specific button header */
 .one {
     color: red;
     background-color: white;
@@ -53,11 +55,13 @@ body{
     margin-top: 10px;
 }
 
+/* specific button header when hover */
 .one:hover {
     color: white;
     background-color: red;
 }
 
+/* specific button header */
 .two {
     color: white;
     background-color: red;
@@ -68,32 +72,47 @@ body{
     margin-top: 10px;
 }
 
+/* specific button header with hover */
 .two:hover {
     padding-left: 20px;
     width: 10%;
 }
 
+/* define background-image for introduction */
 .background-sky {
     color: white;
     height: 700px;
     background-image: url("../img/crb-main.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1600px;
     margin: 40px;
-    filter: brightness(70%);
 }
 
+/* define big title */
+h1 {
+    color: white;
+    font-size: 60px;
+    border-bottom: 1px solid white;
 
-
-/*
-.background-crb {
-
-    background-image: url("crb-main.jpeg");
-    opacity: .4 !important;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
- */
+/* define features for text inside background-image */
+.background-text {
+    text-align: center;
+    padding: 100px 300px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.navigation {
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    text-decoration:none;
+}
