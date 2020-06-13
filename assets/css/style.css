@@ -76,7 +76,7 @@ body{
 .background-sky {
     color: white;
     height: 700px;
-    background-image: url("crb-main.jpeg");
+    background-image: url("../img/crb-main.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
