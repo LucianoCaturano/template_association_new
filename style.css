@@ -1,0 +1,96 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+/* Add a white background color to the top navigation */
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    border-bottom: 3px solid red;
+}
+
+/* Resize image */
+.topnav .logo {
+    width: 200px;
+    height: auto;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 16px;
+
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: white;
+    color: red;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: white;
+    color: red;
+}
+
+.button {
+    float: right;
+}
+
+.one {
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 15px;
+    margin-right: 3px;
+    margin-top: 10px;
+}
+
+.one:hover {
+    color: white;
+    background-color: red;
+}
+
+.two {
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+
+.two:hover {
+    padding-left: 20px;
+    width: 10%;
+}
+
+.background-sky {
+    color: white;
+    height: 700px;
+    background-image: url("crb-main.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 40px;
+    filter: brightness(70%);
+}
+
+/*
+.background-crb {
+
+    background-image: url("crb-main.jpeg");
+    opacity: .4 !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ */
