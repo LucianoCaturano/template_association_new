@@ -7,7 +7,7 @@
 
 ## Instructions
 
-Creation of a **one-page mini site** (= a one-pager) presenting a charity and deployment with GitHub Pages.
+Creation (copy) of a **one-page mini site** (= a one-pager) presenting a charity and deployment with GitHub Pages.
 Credits : https://www.croix-rouge.be/
 
 ## Steps
@@ -16,4 +16,3 @@ Credits : https://www.croix-rouge.be/
 - Include a quote 
 - Cite the source of your quote. Click on it, there is then a new window.
 - Make a subtitle "Other associations" followed by a list of links to similar associations.
-- publish this as a GitHub Page
